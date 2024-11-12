@@ -10,7 +10,6 @@
               "isEnabled": true
             },
             "enableDependencyTracking": false
-        },
-
-  }
+        }
+    }
 }
